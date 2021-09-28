@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ![42joonpark's GitHub stats](https://github-readme-stats.vercel.app/api?username=42joonpark&show_icons=true&theme=gruvbox)
 
-<img src="42.srg" alt="42 image">
+<img src="42.svg" alt="42 image">
