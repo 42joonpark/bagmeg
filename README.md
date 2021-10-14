@@ -2,8 +2,6 @@
 - I'm a student at [42Seoul](https://42seoul.kr/seoul42/main/view)
 - 📫 42.4.joonpark@gmail.com
 
-<!---
-42joonpark/42joonpark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![42joonpark's GitHub stats](https://github-readme-stats.vercel.app/api?username=42joonpark&show_icons=true&theme=gruvbox)
+[![](https://raw.githubusercontent.com/42joonpark/42joonpark/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/42joonpark/42joonpark/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/42joonpark/42joonpark/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
