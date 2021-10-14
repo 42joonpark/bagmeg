@@ -1,5 +1,5 @@
 - I’m @42joonpark
-- I'm a student at <img src="42.svg" alt="42img" width="25" height="15"> 42Seoul(https://42seoul.kr/seoul42/main/view)
+- I'm a student at [42Seoul](https://42seoul.kr/seoul42/main/view)
 - 📫 42.4.joonpark@gmail.com
 
 <!---
